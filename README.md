@@ -20,7 +20,7 @@ A simple, clean, and responsive login page built using **HTML** and **CSS**. Thi
 2. Open the `index.html` file in your web browser to view the login page.  
 3. Customize the styles in `style.css` as needed.
 
-4. ## Future Improvements
+ ## Future Improvements
 
 - Add JavaScript form validation  
 - Integrate with backend authentication services (e.g., Firebase, Node.js)  
