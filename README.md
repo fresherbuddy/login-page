@@ -9,7 +9,7 @@ Easy to customize and extend
 
 #Technologies Used
 HTML5
-CSS3 (Flexbox/Grid for layout, media queries for responsiveness)
+CSS
 
 #How to Use
 Clone or download this repository.
